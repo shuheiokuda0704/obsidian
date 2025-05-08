@@ -1,0 +1,2 @@
+# obsidian
+sync with obsidian
